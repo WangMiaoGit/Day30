@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LanguageAdapterDemo01</string>
+
+
+    <string name="userNameTip">please input your username</string>
+    <string name="pwdTip">please input your pwd</string>
+    <string name="login">login</string>
+    <string name="reset">reset</string>
+
+
+    <string name="userNameNoEmpty">username can not be null!</string>
+    <string name="pwdNoEmpty"> pwd can not be null!</string>
+    <string name="loginSuccess">loginSuccess</string>
+    <string name="userNameOrPwdError">userNameOrPwdError!</string>
+
+
+</resources>

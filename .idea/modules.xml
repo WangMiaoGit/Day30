@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day30.iml" filepath="$PROJECT_DIR$/Day30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platformadapterdemo05/platformadapterdemo05.iml" filepath="$PROJECT_DIR$/platformadapterdemo05/platformadapterdemo05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screenadapterdemo02/screenadapterdemo02.iml" filepath="$PROJECT_DIR$/screenadapterdemo02/screenadapterdemo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screenadapterdemo03/screenadapterdemo03.iml" filepath="$PROJECT_DIR$/screenadapterdemo03/screenadapterdemo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screenadapterdemo04/screenadapterdemo04.iml" filepath="$PROJECT_DIR$/screenadapterdemo04/screenadapterdemo04.iml" />
+    </modules>
+  </component>
+</project>
